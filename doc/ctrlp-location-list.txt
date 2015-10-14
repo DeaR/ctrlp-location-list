@@ -1,0 +1,53 @@
+*ctrlp-location-list.txt*				*ctrlp-location-list*
+
+Version: 1.0.0
+Author : DeaR <nayuri@kuonn.mydns.jp>
+License: Vim License  (see :help |license|)
+
+==============================================================================
+CONTENTS				*ctrlp-location-list-contents*
+
+INTRODUCTION				|ctrlp-location-list-introduction|
+REQUIREMENTS				|ctrlp-location-list-requirements|
+INTERFACE				|ctrlp-location-list-interface|
+  COMMANDS				|ctrlp-location-list-commands|
+CHANGELOG				|ctrlp-location-list-changelog|
+
+
+==============================================================================
+INTRODUCTION				*ctrlp-location-list-introduction*
+
+|location-list| extension for |CtrlP|.
+
+
+==============================================================================
+REQUIREMENTS				*ctrlp-location-list-requirements*
+
+- Vim 7.3 or later
+- |CtrlP|
+
+|CtrlP|		(http://kien.github.com/ctrlp.vim)
+
+
+==============================================================================
+INTERFACE				*ctrlp-location-list-interface*
+------------------------------------------------------------------------------
+COMMANDS				*ctrlp-location-list-commands*
+
+:CtrlPLocList						*:CtrlPLocList*
+	Search for an entry in the current window's |location-list| errors and
+	jump to it.
+
+:CtrlPLocListAll					*:CtrlPLocListAll*
+	Search for an entry in the all window's |location-list| errors and
+	jump to it.
+
+
+==============================================================================
+CHANGELOG				*ctrlp-location-list-changelog*
+
+1.0.0	First version.
+
+
+==============================================================================
+vim:tw=78:ts=8:ft=help:norl:noet:fen:
