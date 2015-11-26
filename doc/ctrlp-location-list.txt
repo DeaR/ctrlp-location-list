@@ -26,7 +26,7 @@ REQUIREMENTS				*ctrlp-location-list-requirements*
 - Vim 7.3 or later
 - |CtrlP|
 
-|CtrlP|		(http://kien.github.com/ctrlp.vim)
+|CtrlP|		(http://ctrlpvim.github.com/ctrlp.vim)
 
 
 ==============================================================================
